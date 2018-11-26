@@ -1,0 +1,14 @@
+[alias]
+    st = status
+	cm = commit -m
+    br = branch
+    a = add
+	au = add -u
+    po = pull
+    pu = push
+	ck = checkout
+	acm = ! git add -u && git cz
+	commit = cm
+[user]
+	email = yuyang@xiaoyun.com
+	name = yuyang
